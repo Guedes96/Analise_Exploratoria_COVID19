@@ -1,2 +1,4 @@
-# Analise_Exploratoria_COVID19
-Analise exploratória covid-19 no brasil, com dados coletados do dia 01/01/2020 até 19/05/2020.
+# projeto_eda_covid
+Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
+
+Análise exploratória dos dados do COVID-19 com Python.
